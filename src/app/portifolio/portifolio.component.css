@@ -1,0 +1,9 @@
+.button.is-fullwidth {
+  margin: 5px;
+}
+.button.is-large {
+  font-size: 1.3rem;
+}
+.section {
+  padding: 2rem 1.5rem;
+}

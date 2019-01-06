@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Kite+One");
+
+.title {
+  font-family: "Kite One";
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+}
+.subtitle.is-6 {
+  font-size: 0.8rem;
+}

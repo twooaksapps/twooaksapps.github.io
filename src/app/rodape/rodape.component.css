@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Englebert");
+
+p {
+  color: #efd869;
+  font-family: "Englebert";
+}
+.navbar-item {
+  color: #4ecdc4;
+}
